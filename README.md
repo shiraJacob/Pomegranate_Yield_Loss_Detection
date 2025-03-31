@@ -62,4 +62,4 @@ This project demonstrates the potential of YOLOv10 for pomegranate yield estimat
 
 ## Acknowledgments:
 This project is based on the work of:
-Wang, Ao, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Ding. "YOLOv10: Real-Time End-to-End Object Detection." *arXiv preprint arXiv:2405.14458* (2024).
+Ao Wang, Hui Chen, Lihao Liu, Kai Chen, Zijia Lin, Jungong Han, and Guiguang Ding. "YOLOv10: Real-Time End-to-End Object Detection." *arXiv preprint arXiv:2405.14458* (2024).
