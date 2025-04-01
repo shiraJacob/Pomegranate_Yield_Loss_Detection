@@ -11,7 +11,9 @@ Run this project via [Colab Link](https://colab.research.google.com/drive/1DgS6s
 <div align="center">
   <img src="https://github.com/user-attachments/assets/32e4e923-49f9-4261-8e7a-da557063f211" width="400"/>
 </div>
+
 - Images are categorized into two classes: Healthy fruits and Defective/Cracked fruits.
+  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e1e170cc-28e3-481d-804d-20024b32844c" width="400" height="300"/>
 </div>
